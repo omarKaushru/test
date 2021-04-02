@@ -1,0 +1,13 @@
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+F:\test\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+F:\test\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache

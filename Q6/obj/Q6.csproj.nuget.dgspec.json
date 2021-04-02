@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\test\\Q6\\Q6.csproj": {}
+  },
+  "projects": {
+    "F:\\test\\Q6\\Q6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\test\\Q6\\Q6.csproj",
+        "projectName": "Q6",
+        "projectPath": "F:\\test\\Q6\\Q6.csproj",
+        "packagesPath": "C:\\Users\\omark\\.nuget\\packages\\",
+        "outputPath": "F:\\test\\Q6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omark\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
